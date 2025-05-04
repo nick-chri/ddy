@@ -51,3 +51,13 @@ https://dokko1new.newkso.ru/dokko1/premium628/mono.m3u8
 https://dokko1new.newkso.ru/dokko1/premium629/mono.m3u8
 #EXTINF:-1 tvg-id="channel1" tvg-name="Cosmote Sports 9" tvg-logo="https://i.imgur.com/3YwAXcH.png" group-title="Sports"
 https://dokko1new.newkso.ru/dokko1/premium630/mono.m3u8
+#EXTINF:-1 tvg-id="channel1" tvg-name="Sky Sports Main Event" tvg-logo="" group-title="Sports"
+https://zekonew.newkso.ru/zeko/premium38/mono.m3u8
+#EXTINF:-1 tvg-id="channel1" tvg-name="Sky Sports Premier League" tvg-logo="" group-title="Sports"
+https://dokko1new.newkso.ru/dokko1/premium130/mono.m3u8
+#EXTINF:-1 tvg-id="channel1" tvg-name="Sky Sports F1" tvg-logo="" group-title="Sports"
+https://windnew.newkso.ru/wind/premium60/mono.m3u8
+#EXTINF:-1 tvg-id="channel1" tvg-name="Sky Sports Football UK" tvg-logo="" group-title="Sports"
+https://zekonew.newkso.ru/zeko/premium35/mono.m3u8
+#EXTINF:-1 tvg-id="channel1" tvg-name="Sky Sports Racing" tvg-logo="" group-title="Sports"
+https://windnew.newkso.ru/wind/premium554/mono.m3u8
