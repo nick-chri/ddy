@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, DaddyLive - cytavision sports 1,1
+#EXTINF:-1 tvg-id="channel1" tvg-name="Cytavison Sports 1" tvg-logo="https://primetel.com.cy/portal-img/channel_logo/1/10960-cytavision-sports-logo-final-new-cytavision-sports-1-hd.png" group-title="Sports"
 https://windnew.newkso.ru/wind/premium911/mono.m3u8
 #EXTINF:-1, DaddyLive - cytavision sports 2
 https://windnew.newkso.ru/wind/premium912/mono.m3u8
@@ -17,5 +17,35 @@ https://windnew.newkso.ru/wind/premium917/mono.m3u8
 https://windnew.newkso.ru/wind/premium918/mono.m3u8
 #EXTINF:-1, DaddyLive - Cablenet sports 1
 https://nfsnew.newkso.ru/nfs/premium19/mono.m3u8
+#EXTINF:-1, DaddyLive - Nova sports 1
+https://dokko1new.newkso.ru/dokko1/premium631/mono.m3u8
 #EXTINF:-1, DaddyLive - Nova sports 2
 https://dokko1new.newkso.ru/dokko1/premium632/mono.m3u8
+#EXTINF:-1, DaddyLive - Nova sports 3
+https://dokko1new.newkso.ru/dokko1/premium633/mono.m3u8
+#EXTINF:-1, DaddyLive - Nova sports 4
+https://dokko1new.newkso.ru/dokko1/premium634/mono.m3u8
+#EXTINF:-1, DaddyLive - Nova sports 5
+https://dokko1new.newkso.ru/dokko1/premium635/mono.m3u8
+#EXTINF:-1, DaddyLive - Nova sports 6
+https://dokko1new.newkso.ru/dokko1/premium636/mono.m3u8
+#EXTINF:-1, DaddyLive - Nova sports premier league greece
+https://windnew.newkso.ru/wind/premium599/mono.m3u8
+#EXTINF:-1, DaddyLive - Cosmote sports 1
+https://dokko1new.newkso.ru/dokko1/premium622/mono.m3u8
+#EXTINF:-1, DaddyLive - Cosmote sports 2
+https://dokko1new.newkso.ru/dokko1/premium623/mono.m3u8
+#EXTINF:-1, DaddyLive - Cosmote sports 3
+https://dokko1new.newkso.ru/dokko1/premium624/mono.m3u8
+#EXTINF:-1, DaddyLive - Cosmote sports 4
+https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8
+#EXTINF:-1, DaddyLive - Cosmote sports 5
+https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8
+#EXTINF:-1, DaddyLive - Cosmote sports 6
+https://dokko1new.newkso.ru/dokko1/premium627/mono.m3u8
+#EXTINF:-1, DaddyLive - Cosmote sports 7
+https://dokko1new.newkso.ru/dokko1/premium628/mono.m3u8
+#EXTINF:-1, DaddyLive - Cosmote sports 8
+https://dokko1new.newkso.ru/dokko1/premium629/mono.m3u8
+#EXTINF:-1, DaddyLive - Cosmote sports 9
+https://dokko1new.newkso.ru/dokko1/premium630/mono.m3u8
