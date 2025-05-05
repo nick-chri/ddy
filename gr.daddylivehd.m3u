@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_GR1.xml.gz"
 #EXTINF:-1 tvg-id="COSMOTE.Sport.1.HD.gr" tvg-name="GR| COSMOTE SPORT 1 HD" tvg-logo="https://logo.iptveditor.com/cosmotesport1.png" group-title="GR| ΑΘΛΗΤΙΚΆ/SPORTS",GR| COSMOTE SPORT 1 HD
 https://dokko1new.iosplayer.ru/dokko1/premium622/mono.m3u8
